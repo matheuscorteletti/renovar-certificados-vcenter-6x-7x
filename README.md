@@ -1,0 +1,1 @@
+# renovar-certificados-vcenter-6x-7x
