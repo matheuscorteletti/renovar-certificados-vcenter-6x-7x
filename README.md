@@ -87,13 +87,6 @@ service vpxd restart
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir `issues` ou enviar `pull requests` para melhorar este repositório.
 
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
 
 ## 📞 Suporte
 
